@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: brown;
+    font-size: 48px;
+    text-align: center;
+}
+
+h3 {
+    color: darkred;
+}
+
+h4 {
+    color: chocolate;
+}
+
+.img-cake {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
